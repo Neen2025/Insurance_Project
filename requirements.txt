@@ -1,0 +1,12 @@
+Flask
+requests
+pytest
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+jupyterFlask
+requests
+pytest
